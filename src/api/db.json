@@ -1,0 +1,44 @@
+{
+  "employee": [
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kw@imnmn.com",
+      "phone": "978456"
+    },
+    {
+      "name": "franco",
+      "email": "franco@franco.com",
+      "phone": "12345678",
+      "active": true,
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "Pepito  Pere",
+      "email": "correo@correo.com",
+      "phone": "987654321"
+    },
+    {
+      "name": "Neymar",
+      "email": "neymar@neymar.com",
+      "phone": "123456",
+      "active": true,
+      "id": 13
+    },
+    {
+      "name": "mora",
+      "email": "correo2mora",
+      "phone": "12321321332",
+      "active": true,
+      "id": 14
+    },
+    {
+      "name": "Fajardo",
+      "email": "fajardo@fajardo.com",
+      "phone": "147852369",
+      "active": true,
+      "id": 15
+    }
+  ]
+}
